@@ -63,10 +63,8 @@ cd bootstrap-hcode
 
 ## 📬 Contato
 
-Ficou com alguma dúvida ou gostaria de compartilhar suas impressões? Vamos conversar!
-
 💼 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 
 ---
 
